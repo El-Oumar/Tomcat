@@ -1,4 +1,4 @@
 node 
 {
-   azureWebAppPublish appName: 'jenkinsjavawebapp', azureCredentialsId: 'azurejavaid', dockerImageName: '', dockerImageTag: '', dockerRegistryEndpoint: [], filePath: '', publishType: 'file', resourceGroup: 'jenkinsjavawebapp', slotName: '', sourceDirectory: '', targetDirectory: ''
+   azureWebAppPublish appName: 'jenkinsjavawebapp', azureCredentialsId: 'azurejavaid', publishType: 'file', resourceGroup: 'jenkinsjavawebapp'
 }
