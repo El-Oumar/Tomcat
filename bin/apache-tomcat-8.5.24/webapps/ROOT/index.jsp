@@ -36,7 +36,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
         <div id="wrapper">
             <div id="navigation" class="curved container">
                 <span id="nav-home"><a href="${tomcatUrl}">MASTER</a></span>
-                <span id="nav-hosts"><a href="${tomcatDocUrl}">HXH</a></span>
+                <span id="nav-hosts"><a href="${tomcatDocUrl}">DMZ</a></span>
                 <span id="nav-config"><a href="${tomcatDocUrl}config/">Configuration</a></span>
                 <span id="nav-examples"><a href="${tomcatExamplesUrl}">NOPE</a></span>
                 <span id="nav-wiki"><a href="http://wiki.apache.org/tomcat/FrontPage">Wiki</a></span>
